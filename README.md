@@ -1,4 +1,4 @@
-🔭 I’m currently working at Soori Technology Pvt. Ltd<br>🤝 React Developer<br>🌱 I’m currently learning Node.js<br>
+🔭 I’m currently working at Soori Technology Pvt. Ltd<br>🤝 React Developer, React Native<br>🌱 I’m currently learning Node.js<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prazsameer) 
